@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm install --frozen-lockfile && pnpm --filter landing build",
-  "outputDirectory": "apps/www/.next",
+  "buildCommand": "pnpm install --frozen-lockfile && pnpm build",
+  "outputDirectory": ".next",
   "installCommand": "pnpm install --frozen-lockfile"
 }
